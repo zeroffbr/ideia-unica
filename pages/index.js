@@ -2,7 +2,7 @@ import { useState } from "react"
 
 export default function Home(){
     return  <div>
-                <div>Home Teste S@n</div>
+                <div>Home 1</div>
                 <Contador/>            
             </div>
 }
